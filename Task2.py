@@ -48,8 +48,6 @@ doc_clean = [clean(doc).split() for doc in document_list]
 
 print(doc_clean)
 
-### TO catogorize the sentance weshould have a catagorical feature to get the topic modeling run properly and it is complicated
-# to procede with the limited time.
 
 # tying some bruteforce methodology ,
 
